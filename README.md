@@ -3,11 +3,12 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 
 | Day | Time |
 | :---: | :---: |
-| [Day 1](./src/bin/01.rs) | 164.20µs |
-| [Day 2](./src/bin/02.rs) | 279.83µs |
-| [Day 3](./src/bin/03.rs) | 1.62ms |
+| [Day 1](./src/bin/01.rs) | 163.63µs |
+| [Day 2](./src/bin/02.rs) | 277.39µs |
+| [Day 3](./src/bin/03.rs) | 1.59ms |
+| [Day 4](./src/bin/04.rs) | 460.74µs |
 
-**Total: 2.07ms**
+**Total: 2.49ms**
 
 ## License
 [MIT](LICENSE)
