@@ -7,7 +7,7 @@ fn main() {
     println!("| Day | Time |");
     println!("| :---: | :---: |");
     let mut total = 0;
-    for day in 1..=6 {
+    for day in 1..=7 {
         let elapsed = run(day, SAMPLES);
         total += elapsed;
         println!(
